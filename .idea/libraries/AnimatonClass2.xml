@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AnimatonClass2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/java_Animation_CLASS/AnimatonClass.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
