@@ -11,6 +11,7 @@ import javax.swing.JTextField;
 /**
  *
  * @author Prince George Imanuel Sondakh
+ * OOP CLASS
  */
 public class YourName extends javax.swing.JFrame {
 
