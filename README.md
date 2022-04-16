@@ -19,4 +19,4 @@ HOW TO START THIS APPLICATION ?
 6. Look at the YourName.java , then start it from there
 7. If you confuse how to start from there, then just right click on it(or the file, on your IDE) then run 'YourName.main()'
 8. Just run the YourName java and then programm will asking for "Masukan Nama Anda", which is input your name, so the character can greet you with your name
-9. It should be like this https://www.instagram.com/p/CcaWGrelEiw/
+9. Preview application this https://www.instagram.com/p/CcaWGrelEiw/
