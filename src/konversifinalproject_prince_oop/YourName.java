@@ -10,7 +10,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author Dumasi Ekel
+ * @author Prince George Imanuel Sondakh
  */
 public class YourName extends javax.swing.JFrame {
 
