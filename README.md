@@ -11,6 +11,11 @@ advanced and interactive converter that using character as little guidance
 and also, she's cute.
 
 HOW TO START THIS APPLICATION ?
-1. Go to src
-2. Go to konversifinalproject_prince_oop
-3. 
+1. I suggest to use netbeans or IntellijIdea (in this case I used Intellij IDEA)
+2. Select the SDK first
+3. Go to KonversiFinalProject_Prince_OOP
+4. Go to src
+5. Go to konversifinalproject_prince_oop
+6. Look at the YourName.java , then start it from there
+7. If you confuse how to start from there, then just right click on it(or the file, on your IDE) then run 'YourName.main()'
+8. Just run the YourName java and then programm will asking for "Masukan Nama Anda", which is input your name, so the character can greet you with your name
