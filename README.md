@@ -20,3 +20,4 @@ HOW TO START THIS APPLICATION ?
 7. If you confuse how to start from there, then just right click on it(or the file, on your IDE) then run 'YourName.main()'
 8. Just run the YourName java and then programm will asking for "Masukan Nama Anda", which is input your name, so the character can greet you with your name
 9. Preview of application in here: https://twitter.com/princesondakh/status/1516661928327753731
+                                  https://youtu.be/f1610uiYyaw
