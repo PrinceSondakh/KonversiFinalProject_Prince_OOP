@@ -49,7 +49,7 @@ public class YourName extends javax.swing.JFrame {
 
         nama_Label.setFont(new java.awt.Font("Tempus Sans ITC", 0, 20)); // NOI18N
         nama_Label.setForeground(new java.awt.Color(255, 153, 51));
-        nama_Label.setText("    Enter your name:");
+        nama_Label.setText("    Enter your name");
         jPanel1.add(nama_Label);
         nama_Label.setBounds(80, 20, 180, 50);
 
