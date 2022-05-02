@@ -81,7 +81,7 @@ public class OTHERS extends javax.swing.JFrame {
 
         tombol_klik.setBackground(new java.awt.Color(254, 254, 214));
         tombol_klik.setFont(new java.awt.Font("Yu Gothic UI Semilight", 0, 12)); // NOI18N
-        tombol_klik.setText("PILIH");
+        tombol_klik.setText("CHOOSE");
         tombol_klik.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 tombol_klikActionPerformed(evt);
