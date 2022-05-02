@@ -47,9 +47,9 @@ public class OTHERS extends javax.swing.JFrame {
 
         judul.setFont(new java.awt.Font("Tempus Sans ITC", 0, 24)); // NOI18N
         judul.setForeground(new java.awt.Color(255, 153, 51));
-        judul.setText("LAINNYA");
+        judul.setText("  OTHERS");
         jPanel1.add(judul);
-        judul.setBounds(160, 40, 109, 33);
+        judul.setBounds(160, 40, 99, 33);
 
         tombo_balik.setIcon(new javax.swing.ImageIcon(getClass().getResource("/gambar_JPEG/Kiribalik.png"))); // NOI18N
         tombo_balik.setToolTipText("");
