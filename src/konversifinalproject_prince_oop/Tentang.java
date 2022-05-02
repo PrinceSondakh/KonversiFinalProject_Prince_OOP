@@ -71,16 +71,16 @@ public class Tentang extends javax.swing.JFrame {
         nama.setBackground(new java.awt.Color(153, 255, 153));
         nama.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         nama.setForeground(new java.awt.Color(102, 102, 102));
-        nama.setText("NAMA : PRINCE GEORGE IMANUEL");
+        nama.setText("NAME : PRINCE GEORGE IMANUEL");
         jPanel1.add(nama);
-        nama.setBounds(190, 100, 226, 17);
+        nama.setBounds(190, 100, 225, 17);
 
         jurusan_fkltas.setBackground(new java.awt.Color(153, 255, 153));
         jurusan_fkltas.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jurusan_fkltas.setForeground(new java.awt.Color(102, 102, 102));
-        jurusan_fkltas.setText("JURUSAN/ FAKULTAS : SISTEM INFORMASI, ILMU KOMPUTER");
+        jurusan_fkltas.setText("FIELD OF STUDY/ FACULTY : SISTEM INFORMASI, ILMU KOMPUTER");
         jPanel1.add(jurusan_fkltas);
-        jurusan_fkltas.setBounds(110, 220, 403, 17);
+        jurusan_fkltas.setBounds(110, 220, 442, 17);
 
         tipe_program.setBackground(new java.awt.Color(153, 255, 153));
         tipe_program.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
@@ -112,9 +112,9 @@ public class Tentang extends javax.swing.JFrame {
 
         matkul.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         matkul.setForeground(new java.awt.Color(102, 102, 102));
-        matkul.setText("MATA KULIAH : OBJECT ORIENTED PROGRAMMING - A");
+        matkul.setText("SUBJECT : OBJECT ORIENTED PROGRAMMING - A");
         jPanel1.add(matkul);
-        matkul.setBounds(130, 180, 362, 20);
+        matkul.setBounds(130, 180, 328, 20);
 
         tentang.setFont(new java.awt.Font("Tempus Sans ITC", 0, 28)); // NOI18N
         tentang.setForeground(new java.awt.Color(102, 102, 102));
