@@ -85,9 +85,9 @@ public class Tentang extends javax.swing.JFrame {
         tipe_program.setBackground(new java.awt.Color(153, 255, 153));
         tipe_program.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         tipe_program.setForeground(new java.awt.Color(102, 102, 102));
-        tipe_program.setText("TIPE PROGRAM: KONVERSI SATUAN");
+        tipe_program.setText("PROGRAM NAME: KONVERSI SATUAN");
         jPanel1.add(tipe_program);
-        tipe_program.setBounds(180, 260, 237, 17);
+        tipe_program.setBounds(180, 260, 244, 17);
 
         nimReg.setBackground(new java.awt.Color(153, 255, 153));
         nimReg.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
