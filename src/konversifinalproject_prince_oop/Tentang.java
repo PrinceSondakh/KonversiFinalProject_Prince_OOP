@@ -80,7 +80,7 @@ public class Tentang extends javax.swing.JFrame {
         jurusan_fkltas.setForeground(new java.awt.Color(102, 102, 102));
         jurusan_fkltas.setText("FIELD OF STUDY/ FACULTY : SISTEM INFORMASI, ILMU KOMPUTER");
         jPanel1.add(jurusan_fkltas);
-        jurusan_fkltas.setBounds(110, 220, 442, 17);
+        jurusan_fkltas.setBounds(60, 220, 490, 17);
 
         tipe_program.setBackground(new java.awt.Color(153, 255, 153));
         tipe_program.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
