@@ -101,7 +101,7 @@ public class Tentang extends javax.swing.JFrame {
         purpose.setForeground(new java.awt.Color(102, 102, 102));
         purpose.setText("TUJUAN PEMBUATAN PROGRAM : DALAM RANGKA UNTUK ");
         jPanel1.add(purpose);
-        purpose.setBounds(120, 300, 385, 17);
+        purpose.setBounds(100, 300, 430, 17);
 
         purpose2.setBackground(new java.awt.Color(153, 255, 153));
         purpose2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
