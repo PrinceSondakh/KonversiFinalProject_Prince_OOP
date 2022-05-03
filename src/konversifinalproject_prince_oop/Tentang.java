@@ -73,7 +73,7 @@ public class Tentang extends javax.swing.JFrame {
         nama.setForeground(new java.awt.Color(102, 102, 102));
         nama.setText("NAME : PRINCE GEORGE IMANUEL");
         jPanel1.add(nama);
-        nama.setBounds(190, 100, 225, 17);
+        nama.setBounds(180, 100, 290, 17);
 
         jurusan_fkltas.setBackground(new java.awt.Color(153, 255, 153));
         jurusan_fkltas.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
@@ -94,7 +94,7 @@ public class Tentang extends javax.swing.JFrame {
         nimReg.setForeground(new java.awt.Color(102, 102, 102));
         nimReg.setText("NIM/ NO. REG: 105011510011, S21510045");
         jPanel1.add(nimReg);
-        nimReg.setBounds(160, 140, 278, 20);
+        nimReg.setBounds(150, 140, 320, 20);
 
         purpose.setBackground(new java.awt.Color(153, 255, 153));
         purpose.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
