@@ -114,7 +114,7 @@ public class Tentang extends javax.swing.JFrame {
         matkul.setForeground(new java.awt.Color(102, 102, 102));
         matkul.setText("SUBJECT : OBJECT ORIENTED PROGRAMMING - A");
         jPanel1.add(matkul);
-        matkul.setBounds(130, 180, 328, 20);
+        matkul.setBounds(120, 180, 380, 20);
 
         tentang.setFont(new java.awt.Font("Tempus Sans ITC", 0, 28)); // NOI18N
         tentang.setForeground(new java.awt.Color(102, 102, 102));
