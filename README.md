@@ -1,4 +1,4 @@
-# KonversiFinalProject_Prince_OOP
+# KonversiFinalProject_Prince_OOPa
 I made this application at summer in 2016 in order 
 to complete Final test of Object Oriented Programming 
 when I took that class at University of Klabat. 
