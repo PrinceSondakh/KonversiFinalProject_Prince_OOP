@@ -108,7 +108,7 @@ public class Tentang extends javax.swing.JFrame {
         purpose2.setForeground(new java.awt.Color(102, 102, 102));
         purpose2.setText(" MEMENUHI NILAI FINAL PROJECT");
         jPanel1.add(purpose2);
-        purpose2.setBounds(190, 340, 220, 17);
+        purpose2.setBounds(170, 340, 270, 17);
 
         matkul.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         matkul.setForeground(new java.awt.Color(102, 102, 102));
