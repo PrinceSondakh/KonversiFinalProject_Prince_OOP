@@ -8,7 +8,7 @@ import AppPackage.AnimationClass;
 import javax.swing.ImageIcon;
 /**
  *
- * @author Prince George Imanuel awaauwuwu
+ * @author Prince George Imanuel awaauwuw
  */
 public class Mnu_Utama extends YourName {
 
